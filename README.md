@@ -1,16 +1,14 @@
-# u_and_i
+# 너와 내가 처음 만난 날
 
-A new Flutter project.
+![중간결과]
 
-## Getting Started
+# Task
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [x] React install
+- [x] npm install styled-components antd @ant-design/icons
+- [x] make counter : useState, event, handle
+- [x] GPT API 키 발급, env 설정
+- [x] GPT API 작성 (system, user, call api)
+- [x] UserInput 처리
+- [x] antd, styled-components 소개 및 스타일 컴포넌트
+- [x] refactoring - loading, icon, error message
