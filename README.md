@@ -1,14 +1,15 @@
 # 너와 내가 처음 만난 날
 
-![중간결과]
+![중간화면1](asset/img/중간화면1.png)
+![중간화면2](asset/img/중간화면2.png)
 
 # Task
 
-- [x] React install
-- [x] npm install styled-components antd @ant-design/icons
-- [x] make counter : useState, event, handle
-- [x] GPT API 키 발급, env 설정
-- [x] GPT API 작성 (system, user, call api)
-- [x] UserInput 처리
-- [x] antd, styled-components 소개 및 스타일 컴포넌트
-- [x] refactoring - loading, icon, error message
+- [x] 기본 기능 구현
+- [x] 기능 추가: 하트 클릭 시 사귄 날 설정 가능
+- [] 기능 추가: 하트 클릭 시 이펙트 설정
+- [] 기능 추가: 로그인 기능
+- [] 기능 추가: 기념일 보기
+- [] 기능 추가: 기념일 추가 기능(ex. 생일)
+- [] 기능 추가: 위젯 설정 기능
+- [] 배포
